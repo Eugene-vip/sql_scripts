@@ -1,2 +1,2 @@
 # sql_scripts
-useful sqls cripts
+useful sql scripts
