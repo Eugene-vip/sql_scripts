@@ -1,7 +1,7 @@
 # sql_scripts
 useful sql scripts
 
-# Размер таблицы
+### Размер таблицы
 ```sql
 select
     t.table_name
@@ -11,7 +11,7 @@ where t.table_schema = 'table_schema_name'
     and t.table_catalog = 'database_name';
 ```
 
-# Размер БД
+### Размер БД
 ```sql
 select
     pd.datname
